@@ -26,6 +26,6 @@ Outside of coding, I enjoy hackathons, leadership, and pushing myself to grow.
 
 ## Connect with Me 📫
 
-💼 LinkedIn: https://www.linkedin.com/in/ahmad-zafran-803445318
-📧 Email: ahmad.zafran.faizal@email.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmad-zafran-803445318
+- 📧 Email: ahmad.zafran.faizal@email.com  
 
