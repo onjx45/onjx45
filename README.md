@@ -21,7 +21,7 @@ Outside of coding, I enjoy hackathons, leadership, and pushing myself to grow.
 **Backend & Tools**  
 - FastAPI, .NET (VB/C#), Git  
 
-**Learning / Exploring**  
+**Learning & Exploring**  
 - Machine Learning, Data Engineering basics, System Design  
 
 ## Connect with Me 📫
