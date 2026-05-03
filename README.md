@@ -24,10 +24,6 @@ Outside of coding, I enjoy hackathons, leadership, and pushing myself to grow.
 **Learning / Exploring**  
 - Machine Learning, Data Engineering basics, System Design  
 
-## GitHub Stats 📊
-
-![Zafran's GitHub stats](https://github-readme-stats.vercel.app/api?username=onjx45&show_icons=true&theme=tokyonight)
-
 ## Connect with Me 📫
 
 💼 LinkedIn: https://www.linkedin.com/in/ahmad-zafran-803445318
