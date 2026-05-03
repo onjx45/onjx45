@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Zafran
 
-<!--
-**onjx45/onjx45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About
+A Computer Science student who enjoys building practical systems and exploring AI.
 
-Here are some ideas to get you started:
+I’m currently focused on backend development, data systems, and turning ideas into real projects.  
+Outside of coding, I enjoy hackathons, leadership, and pushing myself to grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Expertise
+
+- 🔧 Building backend systems and applications  
+- 📊 Exploring data systems and AI fundamentals  
+- 🧠 Problem solving through real-world projects  
+- 🎯 Continuously improving consistency, technical depth, and execution  
+
+## 🛠️ Tech Stack
+
+**Languages & Core Skills**  
+- Python, C#, C++, Visual Basic
+
+**Backend & Tools**  
+- FastAPI, .NET (VB/C#), Git  
+
+**Learning / Exploring**  
+- Machine Learning, Data Engineering basics, System Design  
+
+## GitHub Stats 📊
+
+![Zafran's GitHub stats](https://github-readme-stats.vercel.app/api?username=onjx45&show_icons=true&theme=tokyonight)
+
+## Connect with Me 📫
+
+💼 LinkedIn: https://www.linkedin.com/in/ahmad-zafran-803445318
+📧 Email: ahmad.zafran.faizal@email.com  
+
